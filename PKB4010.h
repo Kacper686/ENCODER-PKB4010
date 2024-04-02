@@ -8,7 +8,7 @@
 
 /*
  * This library is created to support the PKB4010-3600-G5-30T rotary, incremental encoder.
- * It allows of getting current rotation, and setting the start point in any position.
+ * It allows of getting current rotation, and setting the start point at any position.
  * Supports up to 6 encoders.
  * Precision up to 0.05 degree.
 */
